@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "My First Blog Post",
+      "content": "This is the content of my first blog post. It's an introductory post to my new blog.",
+      "author": "Umair Arif",
+      "date": "2024-08-30",
+      "image": "/images/img1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "content": "Here is some more content for another post. This one dives into some interesting topics.",
+      "author": "Furqan Khan",
+      "date": "2024-08-31",
+      "image": "/images/img2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "content": "In this post, we will explore React Hooks and how they can simplify your component logic.",
+      "author": "Mubeen Aslam",
+      "date": "2024-08-29",
+      "image": "/images/img3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Fourth Post",
+      "content": "Learn how to use CSS Modules to scope your styles and avoid conflicts in your React projects.",
+      "author": "Muhammad Farhan",
+      "date": "2024-08-28",
+      "image": "/images/img4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Fifth Post",
+      "content": "Learn how to use CSS Modules to scope your styles and avoid conflicts in your React projects.",
+      "author": "Muhammad Arif",
+      "date": "2024-08-28",
+      "image": "/images/img5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Sixth Post",
+      "content": "Learn how to use CSS Modules to scope your styles and avoid conflicts in your React projects.",
+      "author": "Dilawar Khan",
+      "date": "2024-09-01",
+      "image": "/images/img6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Seventh Post",
+      "content": "Learn how to use CSS Modules to scope your styles and avoid conflicts in your React projects.",
+      "author": "Kashif Majeed",
+      "date": "2024-09-02",
+      "image": "/images/img7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Eight Post",
+      "content": "Learn how to use CSS Modules to scope your styles and avoid conflicts in your React projects.",
+      "author": "Muhammad Rafique",
+      "date": "2024-09-03",
+      "image": "/images/img8.jpg"
+    }
+  ]
